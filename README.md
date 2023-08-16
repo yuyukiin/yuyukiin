@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá eu sou o Yuri Alexander ✌️
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuyukiin/)
+[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yurialex)
 
-<!--
-**heyuyuyu/heyuyuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Frag GitHub Stars](https://github-readme-stats.vercel.app/api?username=Yuyu070707&theme=blue-green)
 
-Here are some ideas to get you started:
+## Tecnologias do dia a dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+ <img align="center"  ait="htlms" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ <img align="center"  ait="htlms" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div><br/>
+  
+Cursando ciência da computação 2/8 🖥️
+
+Eu sou o homem que vai se tornar o rei das programações! 👊🔥
