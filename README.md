@@ -13,4 +13,3 @@
   
 Cursando ciência da computação 2/8 🖥️
 
-Eu sou o homem que vai se tornar o rei das programações! 👊🔥
