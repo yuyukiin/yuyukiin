@@ -11,5 +11,5 @@
  <img align="center"  ait="htlms" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
   
-Cursando ciência da computação 2/8 🖥️
+Cursando ciência da computação 3/8 🖥️
 
