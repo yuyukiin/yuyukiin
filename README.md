@@ -4,7 +4,7 @@
 
 ![Frag GitHub Stars](https://github-readme-stats.vercel.app/api?username=heyuyuyu&theme=blue-green)
 
-## Tecnologias do dia a dia
+## Tecnologias do dia a dia 🖥️
 
 <div style="display: inline_block"><br/>
  <img align="center"  ait="htlms" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -15,5 +15,5 @@
  
 </div><br/>
   
-Cursando ciência da computação 3/8 🖥️
+Cursando ciência da computação 3/8 📒
 
