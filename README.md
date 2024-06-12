@@ -2,7 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuyukiin/)
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yurialex)
 
-![Frag GitHub Stars](https://github-readme-stats.vercel.app/api?username=heyuyuyu&theme=blue-green)
+![Frag GitHub Stars](https://github-readme-stats.vercel.app/api?username=heyuyuyu&theme=dracula)
 
 ## Tecnologias do dia a dia 💻
 
