@@ -12,7 +12,7 @@ Cursando ciência da computação 5/8 📓
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyukiin&layout=compact&langs_count=7&theme=midnight-purple" />
 </div>
 
-## Tecnologias do dia a dia 💻
+## Tecnologias 💻
 
 <div style="display: inline_block"><br/>
  <img align="center"  ait="htlms" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
