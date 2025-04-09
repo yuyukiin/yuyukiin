@@ -7,7 +7,7 @@ Cursando ciência da computação 5/8 📓
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yurialex)
 
 <div align="center">
-  <a href="https://github.com/Valentim-Gab">
+  <a href="https://github.com/yuyukiin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuyukiin&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyukiin&layout=compact&langs_count=7&theme=midnight-purple" />
 </div>
