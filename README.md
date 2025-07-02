@@ -85,4 +85,8 @@
   </samp>
 </div>
 
+###
+<img src="https://raw.githubusercontent.com/yuyukiin/yuyukiin/output/snake.svg" alt="Snake animation" />
+###
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=D61CF5&section=footer"/>
