@@ -68,9 +68,10 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-2A004D?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:yuricostamachado7@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2A004D?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/yuyukiin/)
-  [![Discord](https://img.shields.io/badge/Discord-2A004D?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/yuyuzzz)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2A004D?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/55991548381)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2A004D?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/yuri-costa-machado-5900391b5)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2A004D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-costa-machado-5900391b5)
+  <!-- [![Discord](https://img.shields.io/badge/Discord-2A004D?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/yuyuzzz) -->
+
 
 </div>
 
@@ -85,8 +86,8 @@
   </samp>
 </div>
 
-###
+<div align="center">
 <img src="https://raw.githubusercontent.com/yuyukiin/yuyukiin/output/snake.svg" alt="Snake animation" />
-###
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=D61CF5&section=footer"/>
