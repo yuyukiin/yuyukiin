@@ -86,7 +86,7 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2A004D?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/55991548381)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-2A004D?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuyu-alexander)
 
-)
+
   <!-- [![Discord](https://img.shields.io/badge/Discord-2A004D?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/yuyuzzz) -->
 
 
