@@ -32,8 +32,8 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuyukiin&show_icons=true&theme=midnight-purple&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyukiin&layout=compact&langs_count=8&theme=midnight-purple" />
-  <img width="30"/> <!-- imagem "fantasma" para espaçamento -->
-  <img height="180em" src="https://github.com/yuyukiin/yuyukiin/blob/main/images/my.png" alt="My avatar"/>
+   <img height="180em" src="https://github.com/yuyukiin/yuyukiin/blob/main/images/my.png" alt="My avatar"/>
+ 
 </p>
 
 
