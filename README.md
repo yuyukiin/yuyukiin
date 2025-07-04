@@ -1,12 +1,6 @@
 <!-- Header com efeito de onda -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=D61CF5"/>
 
-<!-- Contador de visitas e apresentação -->
-<p align="center">
-  <!-- Contador de visitas -->
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fyuyukiin&s=40&c=D61CF5&bg=00000000&no=4&ff=digi&tb=Profile+Visits%3A+&ta=" alt="Profile views">
-</p>
-
 <!-- Nome com efeito de digitação -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -110,5 +104,14 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/yuyukiin/yuyukiin/output/snake.svg" alt="Snake animation" />
 </div>
+
+<br/>
+
+<!-- Contador de visitas e apresentação -->
+<p align="center">
+  <!-- Contador de visitas -->
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fyuyukiin&s=40&c=D61CF5&bg=00000000&no=4&ff=digi&tb=Profile+Visits%3A+&ta=" alt="Profile views">
+</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=D61CF5&section=footer"/>
