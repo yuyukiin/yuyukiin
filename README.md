@@ -84,7 +84,9 @@
   [![Gmail](https://img.shields.io/badge/Gmail-2A004D?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:yuricostamachado7@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2A004D?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/yuyukiin/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2A004D?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/55991548381)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2A004D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-alexander-costa-machado-5900391b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2A004D?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yuyu-alexander)
+
+)
   <!-- [![Discord](https://img.shields.io/badge/Discord-2A004D?style=for-the-badge&logo=discord&logoColor=fff)](https://discordapp.com/users/yuyuzzz) -->
 
 
