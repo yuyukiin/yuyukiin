@@ -1,23 +1,41 @@
-<!-- Header with wave effect -->
+<!-- Header com efeito de onda -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=D61CF5"/>
 
+<!-- Contador de visitas e apresentação -->
 <p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fyuyukiin&s=40&c=D61CF5&bg=00000000&no=4&ff=digi&tb=Profile+Visits%3A+&ta=" alt="visits">
-</p> 
+  <!-- Contador de visitas -->
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fyuyukiin&s=40&c=D61CF5&bg=00000000&no=4&ff=digi&tb=Profile+Visits%3A+&ta=" alt="Profile views">
+</p>
 
-<!-- Center greeting with name -->
-<div align="center">
+<!-- Nome com efeito de digitação -->
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D61CF5&width=435&lines=Hello%2C+my+name+is+Yuri+Alexander" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- Imagem do perfil (ajustada e centralizada) -->
+<p align="center">
+</p>
+
+
+
+<div align="center">
+</div>
+  
+
+  
 </div>
 
 ---
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuyukiin&show_icons=true&theme=midnight-purple&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyukiin&layout=compact&langs_count=8&theme=midnight-purple" />
-</div>
+  <img width="30"/> <!-- imagem "fantasma" para espaçamento -->
+  <img height="180em" src="https://github.com/yuyukiin/yuyukiin/blob/main/images/my.png" alt="My avatar"/>
+</p>
+
 
 ---
 
