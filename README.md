@@ -24,11 +24,15 @@
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuyukiin&show_icons=true&theme=midnight-purple&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuyukiin&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&rank_icon=github" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyukiin&layout=compact&langs_count=8&theme=midnight-purple" />
    <img height="180em" src="https://github.com/yuyukiin/yuyukiin/blob/main/images/my.png" alt="My avatar"/>
  
 </p>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=yuyukiin&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&rank_icon=github" /> -->
+
 
 
 ---
