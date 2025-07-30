@@ -106,9 +106,7 @@
   </samp>
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/yuyukiin/yuyukiin/output/snake.svg" alt="Snake animation" />
-</div>
+
 
 <br/>
 
