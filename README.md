@@ -60,6 +60,7 @@
   <img alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img alt="Notion" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
   <img alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img alt="Insomnia" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg">
 </p>
 
 ---
@@ -84,15 +85,4 @@
 
 <div align="center">
   <samp>
-    Thank you for visiting my profile!
-  </samp>
-</div>
-
-<br/>
-
-<!-- Visit counter -->
-<p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fyuyukiin&s=40&c=D61CF5&bg=00000000&no=4&ff=digi&tb=Profile+Visits%3A+&ta=" alt="Profile views">
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=D61CF5&section=footer"/>
+    Thank you for vi
