@@ -49,6 +49,8 @@
   <img alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img alt="DBeaver" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg">
   <img alt="Firebird" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg">
+  <img alt="Firebird" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+          
 </p>
 
 ---
