@@ -8,7 +8,7 @@
   💼 Intern at GestãoDS
 </p>
 
----
+
 
 <!-- GitHub Stats -->
 <!-- <p align="center">
