@@ -1,7 +1,5 @@
-<!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=D61CF5"/>
 
-<!-- Intro -->
 <p align="center">
   👨‍💻 Yuri Alexander <br>
   🎓 Computer Science – UFN (6th semester) <br>
@@ -9,12 +7,6 @@
 </p>
 
 
-
-<!-- GitHub Stats -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuyukiin&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuyukiin&layout=compact&langs_count=8&theme=midnight-purple" />
-</p> -->
 
 ---
 
@@ -49,14 +41,14 @@
   <img alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img alt="DBeaver" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg">
   <img alt="Firebird" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg">
-  <img alt="Firebird" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-          
+  <img alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 </p>
 
 ---
 
 ### Tools
 <p align="center">
+  <img alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img alt="PyCharm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
   <img alt="IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -87,4 +79,6 @@
 
 <div align="center">
   <samp>
-    Thank you for vi
+    Thank you for visiting!
+  </samp>
+</div>
