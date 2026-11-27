@@ -44,7 +44,6 @@ No dia a dia eu pego dados de sistemas legados, limpo, transformo e levo pra den
 <img alt="DBeaver" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg"/>&nbsp;
 <img alt="Docker" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&nbsp;
 <img alt="MongoDB" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>&nbsp;
-<img alt="AWS" height="38" src="images/aws.svg"/>
 </p>
 
 ---
